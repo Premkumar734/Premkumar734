@@ -8,16 +8,10 @@
   <img src="https://github.com/Premkumar734.png" width="180" style="border-radius:50%;">
 </p>
 
+
 <p align="center">
-Passionate about building scalable cloud infrastructure, automating deployments, and mastering DevOps best practices.
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,git,github,linux,bash,maven,java,python,vscode,ansible,prometheus,grafana,npm,nodejs,mysql&perline=19" />
 </p>
-
-<h3 align="center">
-💻 DevOps Engineer • ☁️ AWS • 🐳 Docker • ⚙️ Jenkins • ☸️ Kubernetes • 🌍 Terraform • 🐧 Linux
-</h3>
-
-</div>
-
 ---
 
 # 👨‍💻 About Me
