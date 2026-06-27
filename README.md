@@ -1,80 +1,92 @@
-<div align="center">
-
 <h1 align="center">Hi 👋, I'm Prem Kumar</h1>
 
+<h3 align="center">
+🎓 B.Tech Graduate | DevOps Engineer | AWS | Docker | Jenkins | Terraform | Kubernetes Enthusiast
+</h3>
+
+<h3 align="center">
+Always Learning & Building
+</h3>
+
 <p align="center">
-  <img src="https://github.com/Premkumar734.png" width="180" style="border-radius:50%;">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Premkumar734&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
 </p>
 
+---
+
+# 🧠 About Me
+
+- 🎓 B.Tech Graduate
+- ☁️ Passionate about Cloud & DevOps
+- 🚀 Hands-on experience with AWS, Docker, Jenkins & Terraform
+- 🌱 Currently learning Kubernetes & CI/CD
+- 💼 Open to DevOps & Cloud Opportunities
+- 📍 Andhra Pradesh, India
 
 ---
 
-# 👨‍💻 About Me
+# ⚡ Tech Stack
 
-- 🌩️ Learning *AWS Cloud*
-- 🐧 Strong knowledge of *Linux Administration*
-- 🐳 Hands-on experience with *Docker*
-- ⚙️ Building *CI/CD Pipelines* using Jenkins
-- 🏗️ Automating Infrastructure using *Terraform*
-- 📦 Java Build Automation using *Maven*
-- 🔐 Version Control with *Git & GitHub*
-- ☸️ Currently learning *Kubernetes*
-- 📈 Passionate about Cloud Automation & DevOps
-- 💼 Open to *Junior DevOps Engineer* opportunities
+<p align="center">
 
----
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,git,github,linux&maven=15" />
----
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,git,github,linux,bash,maven,java,vscode,ansible,prometheus,grafana&perline=15"/>
 
-# 📂 Featured Projects
-
-🚀 Dockerized Java Application
-
-🚀 Jenkins CI/CD Pipeline
-
-🚀 Terraform AWS Infrastructure
-
-🚀 Linux Administration Lab
-
-🚀 Docker + Jenkins + Maven Project
-
-🚀 Kubernetes Deployment (Coming Soon)
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Premkumar734&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Premkumar734&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Premkumar734&show_icons=true&theme=tokyonight"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Premkumar734&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Premkumar734&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premkumar734&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Premkumar734&theme=onedark)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Premkumar734&theme=onedark&row=1&column=7"/>
+
+</p>
 
 ---
 
-# 📈 Contribution Graph
+# 📫 Connect With Me
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Premkumar734&theme=tokyo-night)
+<p align="center">
 
----
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-# 🌐 Connect With Me
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-- 💼 LinkedIn: https://linkedin.com/in/prem-kumar-347675289
-- 📧 Email: prem778071@gmail.com
+<a href="https://github.com/Premkumar734">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Automate Everything | Learn Continuously | Build Reliably"*
-
-</div>
+</p>
