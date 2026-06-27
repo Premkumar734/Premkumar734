@@ -1,12 +1,14 @@
 <div align="center">
 
-# Hi 👋, I'm Prem Kumar
-
-### 🚀 Aspiring DevOps Engineer | AWS | Linux | Docker | Jenkins | Terraform
+<h1 align="center">Hi 👋, I'm Prem Kumar</h1>
 
 <p align="center">
   <img src="https://github.com/Premkumar734.png" width="180" style="border-radius:50%;">
 </p>
+
+<h3 align="center">
+💻 DevOps Engineer • ☁️ AWS • 🐳 Docker • ⚙️ Jenkins • ☸️ Kubernetes • 🌍 Terraform • 🐧 Linux
+</h3>
 
 </div>
 
