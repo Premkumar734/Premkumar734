@@ -25,7 +25,7 @@
 
 ---
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,git,github,linux,bash,maven,java,python,vscode,ansible,prometheus,grafana,npm,nodejs,mysql&perline=19" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,git,github,linux,maven,vscode&ansible=19" />
 </p>
 
 ---
