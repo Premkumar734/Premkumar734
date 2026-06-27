@@ -8,10 +8,6 @@
   <img src="https://github.com/Premkumar734.png" width="180" style="border-radius:50%;">
 </p>
 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,git,github,linux,bash,maven,java,python,vscode,ansible,prometheus,grafana,npm,nodejs,mysql&perline=19" />
-</p>
 ---
 
 # 👨‍💻 About Me
@@ -28,6 +24,9 @@
 - 💼 Open to *Junior DevOps Engineer* opportunities
 
 ---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,git,github,linux,bash,maven,java,python,vscode,ansible,prometheus,grafana,npm,nodejs,mysql&perline=19" />
+</p>
 
 # 🚀 Tech Stack
 
