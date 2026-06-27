@@ -45,32 +45,21 @@ Always Learning & Building
 
 ---
 
-# 📊 GitHub Stats
+
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Premkumar734&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Premkumar734&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premkumar734&layout=compact&theme=tokyonight"/>
-
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Premkumar734&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premkumar734&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🔥 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Premkumar734&theme=onedark&row=1&column=7"/>
-
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Premkumar734&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 # 📫 Connect With Me
