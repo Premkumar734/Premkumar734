@@ -77,11 +77,11 @@ Always Learning & Building
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/prem-kumar-347675289">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:prem7787071@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
