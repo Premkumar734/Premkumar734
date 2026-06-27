@@ -28,31 +28,6 @@
   <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,git,github,linux,bash,maven,java,python,vscode,ansible,prometheus,grafana,npm,nodejs,mysql&perline=19" />
 </p>
 
-# 🚀 Tech Stack
-
-### Cloud
-![AWS](https://skillicons.dev/icons?i=aws)
-
-### Operating System
-![Linux](https://skillicons.dev/icons?i=linux)
-
-### DevOps
-![Docker](https://skillicons.dev/icons?i=docker)
-![Jenkins](https://skillicons.dev/icons?i=jenkins)
-![Terraform](https://skillicons.dev/icons?i=terraform)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-
-### Programming
-![Java](https://skillicons.dev/icons?i=java)
-![Bash](https://skillicons.dev/icons?i=bash)
-
-### Build Tools
-![Maven](https://skillicons.dev/icons?i=maven)
-
-### Version Control
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-
 ---
 
 # 📂 Featured Projects
