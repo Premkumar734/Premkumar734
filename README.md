@@ -94,8 +94,8 @@
 
 # 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 📧 Email: YOUR_EMAIL
+- 💼 LinkedIn: https://linkedin.com/in/prem-kumar-347675289
+- 📧 Email: prem778071@gmail.com
 
 ---
 
