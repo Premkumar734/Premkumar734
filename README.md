@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Prem Kumar</h1>
 
+<p align="center">
+  <img src="https://github.com/Premkumar734.png" width="180" style="border-radius:0%;">
+</p>
 ---
 
 # 👨‍💻 About Me
