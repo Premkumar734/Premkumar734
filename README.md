@@ -39,7 +39,7 @@ Always Learning & Building
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,git,github,linux,bash,maven,java,vscode,ansible,prometheus,grafana&perline=15"/>
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,git,github,linux&maven=15"/>
 
 </p>
 
