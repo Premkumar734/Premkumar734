@@ -23,10 +23,7 @@
 - 💼 Open to *Junior DevOps Engineer* opportunities
 
 ---
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,git,github,linux,maven,vscode&ansible=19" />
-</p>
-
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,git,github,linux&maven=15" />
 ---
 
 # 📂 Featured Projects
